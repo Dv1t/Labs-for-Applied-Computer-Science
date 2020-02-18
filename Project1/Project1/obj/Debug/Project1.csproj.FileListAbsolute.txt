@@ -1,0 +1,5 @@
+D:\ITMO\Applied informatic\lab1\Project1\Project1\bin\Debug\Project1.exe.config
+D:\ITMO\Applied informatic\lab1\Project1\Project1\bin\Debug\Project1.exe
+D:\ITMO\Applied informatic\lab1\Project1\Project1\bin\Debug\Project1.pdb
+D:\ITMO\Applied informatic\lab1\Project1\Project1\obj\Debug\Project1.exe
+D:\ITMO\Applied informatic\lab1\Project1\Project1\obj\Debug\Project1.pdb
