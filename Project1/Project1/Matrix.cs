@@ -23,9 +23,9 @@ namespace lab1
                 {
                     throw new Exception("Ошибка ввода");
                 }
-                if (_n<1)
+                if (_n<2)
                 {
-                    throw new Exception("Ошибка ввода");
+                    throw new Exception("Минимальный размер матрицы - 2");
                 }
 
                 if (_n > 100)
