@@ -1,0 +1,6 @@
+D:\Учёба\Прикладная информатика\Labs-for-Applied-Computer-Science\lab3\lab3\bin\Debug\lab3.exe.config
+D:\Учёба\Прикладная информатика\Labs-for-Applied-Computer-Science\lab3\lab3\bin\Debug\lab3.exe
+D:\Учёба\Прикладная информатика\Labs-for-Applied-Computer-Science\lab3\lab3\bin\Debug\lab3.pdb
+D:\Учёба\Прикладная информатика\Labs-for-Applied-Computer-Science\lab3\lab3\obj\Debug\lab3.csprojAssemblyReference.cache
+D:\Учёба\Прикладная информатика\Labs-for-Applied-Computer-Science\lab3\lab3\obj\Debug\lab3.exe
+D:\Учёба\Прикладная информатика\Labs-for-Applied-Computer-Science\lab3\lab3\obj\Debug\lab3.pdb
