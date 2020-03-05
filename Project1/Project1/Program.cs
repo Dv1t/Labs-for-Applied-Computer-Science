@@ -9,6 +9,7 @@ namespace lab1
             Matrix m1;
             Matrix m2;
             Console.WriteLine("Ввод первой матрицы...");
+
             try
             {
                m1 = new Matrix();
